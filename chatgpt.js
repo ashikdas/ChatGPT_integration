@@ -1,6 +1,6 @@
 // Initialize the OpenAI API client
 const openai = require('openai');
-const apiKey = 'YOUR_API_KEY'; // Replace with your actual API key
+const apiKey = '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'; // Replace with your actual API key
 const client = new openai(apiKey);
 
 // Function to send a message to ChatGPT and receive a response
